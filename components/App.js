@@ -36,3 +36,7 @@ var App = React.createClass({
   }
 });
 
+// <div className={'app'}>
+//   {{ContactForm}} {{contact: contactForm}}
+//   {{Contacts}} {{items: contacts}}
+// </div>
